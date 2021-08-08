@@ -1,6 +1,5 @@
 import { useFetch } from '@vueuse/core'
 import qs from 'qs'
-import request from '../request'
 
 const baseURL = process.env.VUE_APP_BASE_API
 
